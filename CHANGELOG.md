@@ -10,6 +10,8 @@ principles.
 ### Added
 
 - new field to `VOUCHER`: `redemption_count`
+- new type `CustomerAgreement` (`CMXCAG`)
+- new type `CustomerAgreementGet` (`CUSTOMER_AGREEMENT_GET`)
 
 ## [3.9.0]
 
